@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.Properties.Resources.resources
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.Views.frmLogin.resources
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.csproj.GenerateResource.cache
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\bin\Debug\AirSystem.exe.config
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\bin\Debug\AirSystem.exe
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\bin\Debug\AirSystem.pdb
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.exe
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.pdb
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.Views.frmCadastro.resources
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.Views.frmLogadoComum.resources
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.Views.frmLogadoAdmin.resources
+C:\Users\PICHAU\Desktop\AirSystem\AirSystem\obj\Debug\AirSystem.Views.frmListarUsuario.resources
